@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sumiantt
+- 👀 I’m interested in writing
+- 🌱 I’m currently learning Python
